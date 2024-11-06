@@ -3,15 +3,15 @@
 This is a basic to-do list app.
 
 ## Features
-- add tasks and set due date and time
-- mark completed tasks
-- delete tasks
+- Add tasks and set due date and time
+- Mark completed tasks
+- Delete tasks
 
-## App Screenshots
-![first page]()
+## Screenshots
+![first page](https://github.com/jyot5na/to-do-list/blob/main/Screenshot%202024-11-06%20171140.png?raw=true)
 
-![second page]()
+![second page](https://github.com/jyot5na/to-do-list/blob/main/Screenshot%202024-11-06%20171255.png?raw=true)
 
 ## Future Scope
-- Make it more aesthetic
-- Incorporate a landing page and side bars using React
+- Make the page more aesthetic
+- Make the web app more responsive and organized by incorporating React
